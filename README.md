@@ -44,6 +44,7 @@ Users should be able to:
 - [w3schools](https://www.w3schools.com) - This helped me to understand the syntax.
 - [MDN Web Docs](https://developer.mozilla.org) - This helped me to see the docs.
 - [Stackoverflow](https://stackoverflow.com) - This helped me when getting error.
+- [Alligator.io](https://alligator.io/css) - Useful article.
 
 ## Author
 
