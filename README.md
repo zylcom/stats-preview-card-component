@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/stats-preview-card-component-D99E3KXb_)
-- Live Site URL: [Add live site URL here](https://zylcom.github.io/stats-preview-card-component/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/stats-preview-card-component-D99E3KXb_)
+- Live Site URL: [Live site](https://zylcom.github.io/stats-preview-card-component/)
 
 ## My process
 
