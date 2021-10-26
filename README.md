@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://www.frontendmentor.io/solutions/stats-preview-card-component-D99E3KXb_)
-- Live Site URL: [Live site](https://zylcom.github.io/stats-preview-card-component/)
+- Solution URL: [https://www.frontendmentor.io/solutions/stats-preview-card-component-D99E3KXb\_](https://www.frontendmentor.io/solutions/stats-preview-card-component-D99E3KXb_)
+- Live Site URL: [https://zylcom.github.io/stats-preview-card-component/](https://zylcom.github.io/stats-preview-card-component/)
 
 ## My process
 
